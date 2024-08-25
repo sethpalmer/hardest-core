@@ -1,0 +1,4 @@
+name: HardestCore
+version: '1.0-SNAPSHOT'
+main: us.sethcpalm.hardestCore.HardestCore
+api-version: '1.21'
